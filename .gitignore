@@ -1,0 +1,18 @@
+*.swp
+wp-content/uploads/
+wp-content/uploads
+wp-content/cache/
+wp-content/cache
+wp-content/w3tc-config/
+wp-content/debug.log
+*.sql
+# wp-config.dev.php
+functions.dev.php
+.htaccess
+
+# Node.js / Grunt / Bower
+node_modules
+bower_components
+.sass-cache
+npm-debug.log
+package-lock.json

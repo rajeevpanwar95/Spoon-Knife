@@ -1,0 +1,2 @@
+User-agent: Googlebot
+Disallow: /wp-content/uploads/2018/12/131-holiday-freemium-111918-small.pdf
